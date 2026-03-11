@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SKINDEEP",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T13:53:49.685097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Ferry Corsten feat. Shelley Harland",
+      "has_synced": false,
+      "path": "select/01_Skindeep_Ferry_Corsten_feat._Shelley_Harland.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skindeep (feat. Shelley Harland)",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/02_Skindeep_(feat._Shelley_Harland)_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Chelsea Grin",
+      "has_synced": true,
+      "path": "select/03_Skindeep_Chelsea_Grin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skindeep (Original Mix)",
+      "artist": "Ferry Corsten Feat. Shelley Harland",
+      "has_synced": false,
+      "path": "select/04_Skindeep_(Original_Mix)_Ferry_Corsten_Feat._Shelley_Harland.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Clan of Xymox",
+      "has_synced": true,
+      "path": "select/05_Skindeep_Clan_of_Xymox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/06_Skindeep_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skindeep feat. Shelley Harland",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/07_Skindeep_feat._Shelley_Harland_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skindeep feat. Shelley Harland",
+      "artist": "Corsten, Ferry",
+      "has_synced": false,
+      "path": "select/08_Skindeep_feat._Shelley_Harland_Corsten,_Ferry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Corsten, Ferry",
+      "has_synced": false,
+      "path": "select/09_Skindeep_Corsten,_Ferry.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SKINDEEP",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/10_SKINDEEP_DEXCORE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skindeep Ferry Corsten And Shelley Harland",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/11_Skindeep_Ferry_Corsten_And_Shelley_Harland_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skindeep (original mix)",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/12_Skindeep_(original_mix)_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skindeep (Ferry Corsten And Shelley Harland)",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/13_Skindeep_(Ferry_Corsten_And_Shelley_Harland)_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Ferry Corsten & Shelley Harland",
+      "has_synced": false,
+      "path": "select/14_Skindeep_Ferry_Corsten_&_Shelley_Harland.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Ferry Corsten feat Shelley Harlan",
+      "has_synced": false,
+      "path": "select/15_Skindeep_Ferry_Corsten_feat_Shelley_Harlan.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Nebelhexë",
+      "has_synced": false,
+      "path": "select/16_Skindeep_Nebelhexë.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Skindeep feat. Shelley Harland (Original Mix)",
+      "artist": "Ferry Corsten, Shelley Harland",
+      "has_synced": false,
+      "path": "select/17_Skindeep_feat._Shelley_Harland_(Original_Mix)_Ferry_Corsten,_Shelley_Harland.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Skindeep",
+      "artist": "Nebelhexe",
+      "has_synced": false,
+      "path": "select/18_Skindeep_Nebelhexe.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SKINDEEP",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_SKINDEEP_DEXCORE.txt"
+    }
+  ]
+}
